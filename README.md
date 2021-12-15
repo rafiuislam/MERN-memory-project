@@ -27,7 +27,7 @@
 <h3> 🛠 &nbsp;Setup Dependencies</h3>
 
 - 🔧 &nbsp;
-   npm i antd @ant-design/icons react-redux @reduxjs/toolkit axios chart.js html-react-parser millify moment react-chartjs-2 react-router-dom
+   npm i body-parser cors express mongoose nodemon axios moment react-file-base-64 redux redux-thunk @material-ui/core
    
  <br/>
 
